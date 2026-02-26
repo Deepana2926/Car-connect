@@ -1,0 +1,2 @@
+class VehicleNotFoundException(Exception):
+    pass
